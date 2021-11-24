@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Cristian Samaniego Developer
 
 # THANKS
 
