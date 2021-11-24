@@ -1,4 +1,4 @@
-# Starter Web Repo
+# Starter Web Repo conflict
 
 This repository is for showing how Git and GitHub work
 
