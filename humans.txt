@@ -1,4 +1,3 @@
-HE TENIDO QUE HACER ESTA MODIFICACION ANTES DE TERMINAR LA FUNCION DE ABAJO QUE GUARDE EN UN STASH
 # humanstxt.org/
 # The humans responsible & technology colophon
 
