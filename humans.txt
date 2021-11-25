@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Cristian Samaniego Developer Desde Master
+    Cristian Samaniego Developer Desde Master y rama conflict
 
 # THANKS
 
