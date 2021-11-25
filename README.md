@@ -1,7 +1,7 @@
 
 # Starter Web Repo desde local sin conflicto
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Add line for rebasing example.
 
 ## Purpose
 
