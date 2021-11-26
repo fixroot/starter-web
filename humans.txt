@@ -1,4 +1,6 @@
-parche 1
+cambio para commit 1
+cambio para commit 2 
+
 # The humans responsible & technology colophon
 
 # TEAM
