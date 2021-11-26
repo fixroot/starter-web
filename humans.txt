@@ -1,5 +1,5 @@
 cambio para commit 1
-cambio para commit 2 para vim 
+cambio para commit y lanzar el visual studio 
 
 # The humans responsible & technology colophon
 
