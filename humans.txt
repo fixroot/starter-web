@@ -1,5 +1,5 @@
 cambio para commit 1
-cambio para commit 2 
+cambio para commit 2 para vim 
 
 # The humans responsible & technology colophon
 
