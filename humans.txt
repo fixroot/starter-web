@@ -1,4 +1,4 @@
-# humanstxt.org/
+parche 1
 # The humans responsible & technology colophon
 
 # TEAM
